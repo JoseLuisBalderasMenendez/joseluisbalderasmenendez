@@ -1,6 +1,3 @@
-# joseluisbalderasmenendez
-✨ This repository is special ✨
-
 # Hi, I'm Jose Balderas 👋
 
 ## About Me
